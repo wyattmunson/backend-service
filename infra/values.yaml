@@ -1,2 +1,2 @@
 image: <+artifact.image>
-replicas: 2 # Can be overridden
+replicas: 2
